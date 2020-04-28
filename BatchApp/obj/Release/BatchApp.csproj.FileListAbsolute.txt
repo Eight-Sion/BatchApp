@@ -1,0 +1,10 @@
+D:\04_NativeApp\BatchApp\bin\Release\BatchApp.exe.config
+D:\04_NativeApp\BatchApp\bin\Release\BatchApp.exe
+D:\04_NativeApp\BatchApp\bin\Release\BatchApp.pdb
+D:\04_NativeApp\BatchApp\obj\Release\BatchApp.Form1.resources
+D:\04_NativeApp\BatchApp\obj\Release\BatchApp.Properties.Resources.resources
+D:\04_NativeApp\BatchApp\obj\Release\BatchApp.csproj.GenerateResource.cache
+D:\04_NativeApp\BatchApp\obj\Release\BatchApp.csproj.CoreCompileInputs.cache
+D:\04_NativeApp\BatchApp\obj\Release\BatchApp.exe
+D:\04_NativeApp\BatchApp\obj\Release\BatchApp.pdb
+D:\04_NativeApp\BatchApp\obj\Release\BatchApp.csprojAssemblyReference.cache
